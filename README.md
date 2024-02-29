@@ -26,4 +26,4 @@ I am AMAN T F ,Passionate software engineer pursuing BTech in computer science a
 ### Projects
 Web Development-Portfolio
 
-(https://amanferoz.in/)
+https://amanferoz.in/
